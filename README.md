@@ -1,3 +1,5 @@
 # JSON.NET
 
-Seilaization Fundamentals
+Seilaization fundamentals
+
+Settings and attributes
